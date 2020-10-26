@@ -1,0 +1,18 @@
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.deps.json
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.dll
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.pdb
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.AssemblyInfoInputs.cache
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.AssemblyInfo.cs
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.dll
+C:\Users\Tobi\Documents\Visual Studio 2019\Test\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.pdb
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.deps.json
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.dll
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.pdb
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.csprojAssemblyReference.cache
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.AssemblyInfoInputs.cache
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.AssemblyInfo.cs
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.csproj.CoreCompileInputs.cache
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.dll
+C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate.pdb

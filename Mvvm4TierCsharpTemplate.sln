@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm4TierCsharpTemplate", "Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate.csproj", "{D649B935-AD88-48E5-8FA7-FDAFD7E5F541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm4TierCsharpTemplateUnitTest", "Mvvm4TierCsharpTemplateUnitTest\Mvvm4TierCsharpTemplateUnitTest.csproj", "{6986B392-CAE7-4F9D-BD77-A534E330E7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D649B935-AD88-48E5-8FA7-FDAFD7E5F541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D649B935-AD88-48E5-8FA7-FDAFD7E5F541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D649B935-AD88-48E5-8FA7-FDAFD7E5F541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D649B935-AD88-48E5-8FA7-FDAFD7E5F541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6986B392-CAE7-4F9D-BD77-A534E330E7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6986B392-CAE7-4F9D-BD77-A534E330E7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6986B392-CAE7-4F9D-BD77-A534E330E7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6986B392-CAE7-4F9D-BD77-A534E330E7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D8A6CE-E3BC-415A-9FAA-F83A6E0CE7AC}
+	EndGlobalSection
+EndGlobal
