@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj": {}
+    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj": {
+    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj",
         "projectName": "Mvvm4TierCsharpTemplateUnitTest",
-        "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj",
+        "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj",
         "packagesPath": "C:\\Users\\Tobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplateUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplateUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {
-                "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj"
+              "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {
+                "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {
+    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
+        "projectUniqueName": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
         "projectName": "Mvvm4TierCsharpTemplate",
-        "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
+        "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
         "packagesPath": "C:\\Users\\Tobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\obj\\",
+        "outputPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

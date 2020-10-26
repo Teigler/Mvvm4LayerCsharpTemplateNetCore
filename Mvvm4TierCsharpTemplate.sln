@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm4TierCsharpTemplate", "Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate.csproj", "{D649B935-AD88-48E5-8FA7-FDAFD7E5F541}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mvvm4TierCsharpTemplate", "Mvvm4TierCsharpTemplate\Mvvm4TierCsharpTemplate.csproj", "{D649B935-AD88-48E5-8FA7-FDAFD7E5F541}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm4TierCsharpTemplateUnitTest", "Mvvm4TierCsharpTemplateUnitTest\Mvvm4TierCsharpTemplateUnitTest.csproj", "{6986B392-CAE7-4F9D-BD77-A534E330E7EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mvvm4TierCsharpTemplateUnitTest", "Mvvm4TierCsharpTemplateUnitTest\Mvvm4TierCsharpTemplateUnitTest.csproj", "{6986B392-CAE7-4F9D-BD77-A534E330E7EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm4TierCsharpTemplate2", "Mvvm4TierCsharpTemplate2\Mvvm4TierCsharpTemplate2.csproj", "{CE5C65A1-22AA-4CA2-8C46-65995A56919D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvvm4TierCsharpTemplate2UnitTest", "Mvvm4TierCsharpTemplate2UnitTest\Mvvm4TierCsharpTemplate2UnitTest.csproj", "{3D53C59C-8805-424C-B60F-D3D24131346D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{6986B392-CAE7-4F9D-BD77-A534E330E7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6986B392-CAE7-4F9D-BD77-A534E330E7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6986B392-CAE7-4F9D-BD77-A534E330E7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5C65A1-22AA-4CA2-8C46-65995A56919D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5C65A1-22AA-4CA2-8C46-65995A56919D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5C65A1-22AA-4CA2-8C46-65995A56919D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5C65A1-22AA-4CA2-8C46-65995A56919D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D53C59C-8805-424C-B60F-D3D24131346D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D53C59C-8805-424C-B60F-D3D24131346D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D53C59C-8805-424C-B60F-D3D24131346D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D53C59C-8805-424C-B60F-D3D24131346D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

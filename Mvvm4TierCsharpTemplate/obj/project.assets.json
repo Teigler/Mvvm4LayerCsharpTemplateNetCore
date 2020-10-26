@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
+      "projectUniqueName": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
       "projectName": "Mvvm4TierCsharpTemplate",
-      "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
+      "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
       "packagesPath": "C:\\Users\\Tobi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\obj\\",
+      "outputPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

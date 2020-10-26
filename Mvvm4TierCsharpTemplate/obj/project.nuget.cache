@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aEsse+ufNHxyeCXPZwU9HHVm0N3QkTVf3Z78su/rNDq3aef5Kgor2+gyt24JE+zNhDw1+ZjDAGbJzBVdZt9PUA==",
+  "dgSpecHash": "5a8m188PShiz5iBowzVTk5mXOidFaykK4XIPvTnL65+Mjs+gbr7uabjeURQrRmh4CkimmyoEN2NQOt315fegvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
+  "projectFilePath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

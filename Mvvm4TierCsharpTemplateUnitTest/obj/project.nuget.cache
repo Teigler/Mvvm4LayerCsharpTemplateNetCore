@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lDOQZkPhlQCMe4D0tdzGOkIu2RCZC5IOIQlzBYYBjh2pqoC6dxjuHHFu4H+XsAOyMC6jQKAqejR1iFI509C3gA==",
+  "dgSpecHash": "Nhcu4hkkiGfgy3lU2J9qSfxnQm8LfIvYkAx9CXbOYnd7I9oaeW0BgM77TkUG8iacgPoSS3aw3/NTJmbSw8H+Wg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\Mvvm4TierCsharpTemplateUnitTest\\Mvvm4TierCsharpTemplateUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tobi\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Tobi\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
