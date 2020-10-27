@@ -2,9 +2,9 @@
   <TemplateData>
     <Name>Mvvm4TierCsharpTemplate</Name>
     <Description>Architecture template for components. 
-	Generates a 4 tier Architecture combined with MVVM-Pattern.
+	Generates a 4 tier Architecture combined with MVVM-Pattern. 
 	Without Unit-Test-Project. Technology stack: C# (.Net Core).
-	Important: lower layer provides interfaces.</Description>
+	Important: higher layer provides interfaces.</Description>
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>
     </ProjectSubType>

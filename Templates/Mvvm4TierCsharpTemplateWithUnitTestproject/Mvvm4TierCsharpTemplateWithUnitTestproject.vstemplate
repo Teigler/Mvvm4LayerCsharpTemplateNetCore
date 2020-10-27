@@ -2,7 +2,10 @@
     xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
     <TemplateData>
         <Name>Mvvm4TierCsharpTemplateWithUnitTestproject</Name>
-        <Description>Architecture template for components. Generates a 4 Tier Architecture with combined MVVM-Pattern. Generates the Mvvm4TierCsharpTemplate with the Mvvm4TierCsharpTemplateUnitTest</Description>
+        <Description>Architecture template for components.
+		Generates a 4 Tier Architecture with combined MVVM-Pattern.
+		Generates the Mvvm4TierCsharpTemplate with the Mvvm4TierCsharpTemplateUnitTest.
+		Important: lower layer provides interfaces.</Description>
         <Icon>Icon.ico</Icon>
         <ProjectType>CSharp</ProjectType>
     </TemplateData>
