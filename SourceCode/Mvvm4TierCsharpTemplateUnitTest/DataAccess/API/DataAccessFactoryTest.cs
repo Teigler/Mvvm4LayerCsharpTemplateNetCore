@@ -1,7 +1,7 @@
 ﻿using Mvvm4TierCsharpTemplate.DataAccess.API;
 using NUnit.Framework;
 
-namespace Template4TierMvvmTest.DataAccess.API
+namespace Mvvm4TierCsharpTemplateUnitTest.DataAccess.API
 {
     [TestFixture]
     public class DataAccessFactoryTest

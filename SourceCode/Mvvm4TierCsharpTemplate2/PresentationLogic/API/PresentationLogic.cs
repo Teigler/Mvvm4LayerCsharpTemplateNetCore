@@ -1,5 +1,4 @@
-﻿using Mvvm4TierCsharpTemplate2.BusinessLogic.API;
-
+﻿
 namespace Mvvm4TierCsharpTemplate2.PresentationLogic.API
 {
     internal class PresentationLogic : IPresentationLogic
