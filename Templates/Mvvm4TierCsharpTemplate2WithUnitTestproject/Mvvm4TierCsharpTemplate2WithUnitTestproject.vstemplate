@@ -1,7 +1,7 @@
 <VSTemplate Version="2.0.0" Type="ProjectGroup"
     xmlns="http://schemas.microsoft.com/developer/vstemplate/2005">
     <TemplateData>
-        <Name>Mvvm4TierCsharpTemplateWithUnitTestproject</Name>
+        <Name>Mvvm4TierCsharpTemplate2WithUnitTestproject</Name>
         <Description>Architecture template for components. Generates a 4 Tier Architecture with combined MVVM-Pattern. 
 		Generates the Mvvm4TierCsharpTemplate with the Mvvm4TierCsharpTemplateUnitTest. 
 		Important: higher layer provides interfaces.</Description>
@@ -10,11 +10,11 @@
     </TemplateData>
     <TemplateContent>
         <ProjectCollection>
-            <ProjectTemplateLink ProjectName="Mvvm4TierCsharpTemplate">
-                Mvvm4TierCsharpTemplate\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Mvvm4TierCsharpTemplate2">
+                Mvvm4TierCsharpTemplate2\MyTemplate.vstemplate
             </ProjectTemplateLink>
-            <ProjectTemplateLink ProjectName="Mvvm4TierCsharpTemplateUnitTest">
-                Mvvm4TierCsharpTemplateUnitTest\MyTemplate.vstemplate
+            <ProjectTemplateLink ProjectName="Mvvm4TierCsharpTemplate2UnitTest">
+                Mvvm4TierCsharpTemplate2UnitTest\MyTemplate.vstemplate
             </ProjectTemplateLink>
         </ProjectCollection>
     </TemplateContent>

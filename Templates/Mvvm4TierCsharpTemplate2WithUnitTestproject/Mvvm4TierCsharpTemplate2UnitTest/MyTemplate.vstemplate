@@ -1,13 +1,13 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
   <TemplateData>
-    <Name>Mvvm4TierCsharpTemplateUnitTest</Name>
-    <Description>Unit test project for Mvvm4TierCsharpTemplate</Description>
+    <Name>Mvvm4TierCsharpTemplate2UnitTest</Name>
+    <Description>Unit test project for Mvvm4TierCsharpTemplate2</Description>
     <ProjectType>CSharp</ProjectType>
     <ProjectSubType>
     </ProjectSubType>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
-    <DefaultName>Mvvm4TierCsharpTemplateUnitTest</DefaultName>
+    <DefaultName>Mvvm4TierCsharpTemplate2UnitTest</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
@@ -15,7 +15,7 @@
     <Icon>__TemplateIcon.ico</Icon>
   </TemplateData>
   <TemplateContent>
-    <Project TargetFileName="Mvvm4TierCsharpTemplateUnitTest.csproj" File="Mvvm4TierCsharpTemplateUnitTest.csproj" ReplaceParameters="true">
+    <Project TargetFileName="Mvvm4TierCsharpTemplate2UnitTest.csproj" File="Mvvm4TierCsharpTemplate2UnitTest.csproj" ReplaceParameters="true">
       <Folder Name="BusinessLogic" TargetFolderName="BusinessLogic">
         <Folder Name="API" TargetFolderName="API">
           <ProjectItem ReplaceParameters="true" TargetFileName="BusinessLogicFactoryTest.cs">BusinessLogicFactoryTest.cs</ProjectItem>

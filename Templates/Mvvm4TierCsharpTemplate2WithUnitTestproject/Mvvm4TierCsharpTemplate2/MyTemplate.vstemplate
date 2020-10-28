@@ -1,6 +1,6 @@
 <VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
   <TemplateData>
-    <Name>Mvvm4TierCsharpTemplate</Name>
+    <Name>Mvvm4TierCsharpTemplate2</Name>
     <Description>Architecture template for components. 
 	Generates a 4 tier Architecture combined with MVVM-Pattern. 
 	Without Unit-Test-Project. Technology stack: C# (.Net Core).
@@ -10,7 +10,7 @@
     </ProjectSubType>
     <SortOrder>1000</SortOrder>
     <CreateNewFolder>true</CreateNewFolder>
-    <DefaultName>Mvvm4TierCsharpTemplate</DefaultName>
+    <DefaultName>Mvvm4TierCsharpTemplate2</DefaultName>
     <ProvideDefaultName>true</ProvideDefaultName>
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
@@ -18,24 +18,24 @@
     <Icon>__TemplateIcon.ico</Icon>
   </TemplateData>
   <TemplateContent>
-    <Project TargetFileName="Mvvm4TierCsharpTemplate.csproj" File="Mvvm4TierCsharpTemplate.csproj" ReplaceParameters="true">
+    <Project TargetFileName="Mvvm4TierCsharpTemplate2.csproj" File="Mvvm4TierCsharpTemplate2.csproj" ReplaceParameters="true">
       <Folder Name="BusinessLogic" TargetFolderName="BusinessLogic">
         <Folder Name="API" TargetFolderName="API">
           <ProjectItem ReplaceParameters="true" TargetFileName="BusinessLogic.cs">BusinessLogic.cs</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="BusinessLogicFactory.cs">BusinessLogicFactory.cs</ProjectItem>
-          <ProjectItem ReplaceParameters="true" TargetFileName="IBusinessLogic.cs">IBusinessLogic.cs</ProjectItem>
+          <ProjectItem ReplaceParameters="true" TargetFileName="IDataAccess.cs">IDataAccess.cs</ProjectItem>
         </Folder>
       </Folder>
       <Folder Name="DataAccess" TargetFolderName="DataAccess">
         <Folder Name="API" TargetFolderName="API">
           <ProjectItem ReplaceParameters="true" TargetFileName="DataAccess.cs">DataAccess.cs</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="DataAccessFactory.cs">DataAccessFactory.cs</ProjectItem>
-          <ProjectItem ReplaceParameters="true" TargetFileName="IDataAccess.cs">IDataAccess.cs</ProjectItem>
         </Folder>
       </Folder>
       <Folder Name="Model" TargetFolderName="Model" />
       <Folder Name="PresentationLogic" TargetFolderName="PresentationLogic">
         <Folder Name="API" TargetFolderName="API">
+          <ProjectItem ReplaceParameters="true" TargetFileName="IBusinessLogic.cs">IBusinessLogic.cs</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="IPresentationLogic.cs">IPresentationLogic.cs</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="PresentationLogic.cs">PresentationLogic.cs</ProjectItem>
           <ProjectItem ReplaceParameters="true" TargetFileName="PresentationLogicFactory.cs">PresentationLogicFactory.cs</ProjectItem>
