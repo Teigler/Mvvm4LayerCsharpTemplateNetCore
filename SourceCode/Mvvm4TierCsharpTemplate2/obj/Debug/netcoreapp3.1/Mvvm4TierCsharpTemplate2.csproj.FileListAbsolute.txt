@@ -16,3 +16,12 @@ C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4Ti
 C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.csproj.CoreCompileInputs.cache
 C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.dll
 C:\Users\Tobi\Documents\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.pdb
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.deps.json
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.dll
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\bin\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.pdb
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.csprojAssemblyReference.cache
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.AssemblyInfoInputs.cache
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.AssemblyInfo.cs
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.csproj.CoreCompileInputs.cache
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.dll
+D:\Home\Dokumente\Softwareentwicklung\GitHub\Mvvm4TierCsharpTemplateNetCore\SourceCode\Mvvm4TierCsharpTemplate2\obj\Debug\netcoreapp3.1\Mvvm4TierCsharpTemplate2.pdb

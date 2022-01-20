@@ -1,5 +1,4 @@
-﻿using Mvvm4TierCsharpTemplate2.BusinessLogic.API;
-using Mvvm4TierCsharpTemplate2.DataAccess.API;
+﻿using Mvvm4TierCsharpTemplate2.DataAccess.API;
 using NUnit.Framework;
 
 namespace Mvvm4TierCsharpTemplate2UnitTest.DataAccess.API
@@ -11,7 +10,7 @@ namespace Mvvm4TierCsharpTemplate2UnitTest.DataAccess.API
         public void CreateDataAccess_ReturnNewDataAccessCorrectType_Returned()
         {
             
-            Assert.That(DataAccessFactory.CreateDataAccess(), Is.InstanceOf(typeof(IDataAccess)));
+            Assert.That(DataAccessFactory.CreateDataAccess(), Is.InstanceOf(typeof(Mvvm4TierCsharpTemplate2.DataAccess.API.DataAccess)));
         }
     }
 }

@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {}
+    "D:\\Home\\Dokumente\\Softwareentwicklung\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {
+    "D:\\Home\\Dokumente\\Softwareentwicklung\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
+        "projectUniqueName": "D:\\Home\\Dokumente\\Softwareentwicklung\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
         "projectName": "Mvvm4TierCsharpTemplate",
-        "projectPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
-        "packagesPath": "C:\\Users\\Tobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tobi\\Documents\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\obj\\",
+        "projectPath": "D:\\Home\\Dokumente\\Softwareentwicklung\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\Mvvm4TierCsharpTemplate.csproj",
+        "packagesPath": "C:\\Users\\Tobias\\.nuget\\packages\\",
+        "outputPath": "D:\\Home\\Dokumente\\Softwareentwicklung\\GitHub\\Mvvm4TierCsharpTemplateNetCore\\SourceCode\\Mvvm4TierCsharpTemplate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tobi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tobias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -55,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
