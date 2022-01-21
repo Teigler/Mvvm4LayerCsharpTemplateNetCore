@@ -13,7 +13,7 @@ The architecture combines a classical layer architecture with the MVVM pattern.
 
  
 
-![Architecture](GitHubResources/Mvvm4TierCsharpTemplates.png)  
+![Architecture](GitHubResources/Mvvm4Tier.png)  
 
 
 ## Technology stack
