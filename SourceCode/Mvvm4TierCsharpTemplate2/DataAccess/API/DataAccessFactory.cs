@@ -5,7 +5,7 @@ namespace Mvvm4TierCsharpTemplate2.DataAccess.API
     {
         internal static DataAccess CreateDataAccess()
         {
-            return new Mvvm4TierCsharpTemplate2.DataAccess.API.DataAccess();
+            return new DataAccess();
         }
     }
 }

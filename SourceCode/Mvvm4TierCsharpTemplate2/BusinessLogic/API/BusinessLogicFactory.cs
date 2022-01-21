@@ -8,7 +8,7 @@ namespace Mvvm4TierCsharpTemplate2.BusinessLogic.API
         internal static BusinessLogic CreateBusinessLogic()
         {
             var dataAccess = DataAccessFactory.CreateDataAccess();
-            return new Mvvm4TierCsharpTemplate2.BusinessLogic.API.BusinessLogic(dataAccess);
+            return new BusinessLogic(dataAccess);
         }
     }
 }

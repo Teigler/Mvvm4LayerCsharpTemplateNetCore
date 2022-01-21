@@ -4,7 +4,7 @@
     {
         internal static IDataAccess CreateDataAccess()
         {
-            return new Mvvm4TierCsharpTemplate.DataAccess.API.DataAccess();
+            return new DataAccess();
         }
     }
 }

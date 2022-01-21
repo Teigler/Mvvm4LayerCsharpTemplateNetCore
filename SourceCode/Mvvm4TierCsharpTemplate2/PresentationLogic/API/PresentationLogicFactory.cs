@@ -7,7 +7,7 @@ namespace Mvvm4TierCsharpTemplate2.PresentationLogic.API
         internal static IPresentationLogic CreatePresentationLogic()
         {
             var businessLogic = BusinessLogicFactory.CreateBusinessLogic();
-            return new Mvvm4TierCsharpTemplate2.PresentationLogic.API.PresentationLogic(businessLogic);
+            return new PresentationLogic(businessLogic);
         }
     }
 }
